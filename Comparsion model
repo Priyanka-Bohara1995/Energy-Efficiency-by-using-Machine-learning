@@ -1,0 +1,7 @@
+ Comparison of Models
+The comparison of technique models below as the regression tree in MAE is 1.7028055 and it approach the greatest MAE out of three of the least effective. As both Random Forest and SVM perform well in the terms of the parameter as it can be observed it is similar error value and lower MAE values which is around the 0.7672995. The RMSE is measure of the square root of the average of the difference squared between the prediction and actual values where the regression tree utilizes the low performance because it has highest RMSE which is 2. 323036.On the other hand, the random forest and SVM is quite similar about the 1.030953 which defines the strong performance and the strength of the outliners. Considering the table below of the MAE and RMSE the SVM and Random Forest works the best for the dataset as compared to the regression tree but the Random Forest is best model for the energy efficiency because it has lowest RMSE even though there is hardly any changes as compared to the SVM.SVM is considered to be the second best model. Random Forest are most effective methods for the energy efficiency prediction in the dataset.
+ML Techniques Name	Mean Absolute Error	Root Mean Squared Error
+Regression Tree	1.7038055	2.323036
+Support Vector Machine in regression mode (SVR)	0.7672995	1.030953
+Random Forest	0.7672995036	1.0309526267
+
